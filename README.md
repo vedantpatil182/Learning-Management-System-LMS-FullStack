@@ -1,4 +1,5 @@
 # LMS-FullStack
+# LIVE DEMO - https://lms-full-stack-client-pi.vercel.app/
 
 A full-stack Learning Management System (LMS) built with the MERN stack (MongoDB, Express, React, Node.js), featuring course management, student progress tracking, and payment integration.
 
